@@ -14,7 +14,7 @@
 {There are not any known bugs. Should you experience any, feel free to contact and share the same. }
 
 #Technologies Used
-{The languages and tools used to create this app are HTML, CSS, Atom and JavaScript. By using HTML, I have been able to come up with a basic webpage.}
+{The languages and tools used to create this app are HTML, CSS, Atom, JavaScript and jQuery. By using HTML, I have been able to come up with a basic webpage.}
 
 #Support and contact details
 {In case of any issues or have questions, ideas or concerns, feel free to contact me or make a contribution to the code.}
