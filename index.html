@@ -7,37 +7,51 @@
     <link rel="stylesheet" href="styles.css">
     <script src="js/scripts.js"></script>
   </head>
+
   <body>
     <div class="container">
       <div class="jumbotron">
         <h1>Quiz Board</h1>
-        <p>Fill in by clicking the right answer to each questions.</p>
+        <p>Fill in the blanks by clicking the right answer to each questions.</p>
       </div>
+
       <div class="panel panel-info">
   <div class="panel-heading">
-    <h2 class="panel-title">What is a loop?</h2>
+    <h2 class="panel-title">1. What is a loop?</h2>
   </div>
   <div class="panel-body">
-    <ul>
-      <li>A feature which facilitates the execution of a set of instructions/functions repeatedly.</li>
-      <li>Pellentesque cursus justo</li>
-      <li>In felis condimentum cursus</li>
-    </ul>
+    <input type="radio" name="question1" value="A feature which facilitates the execution of a set of instructions/functions repeatedly."> A feature which facilitates the execution of a set of instructions/functions repeatedly.<br>
+    <input type="radio" name="question1" value="Pellentesque cursus justo"> Pellentesque cursus justo<br>
+    <input type="radio" name="question1" value="In felis condimentum cursus"> In felis condimentum cursus<br>
   </div>
   <div class="panel-footer">
     <p>4 Marks</p>
   </div>
 </div>
+
 <div class="panel panel-info">
 <div class="panel-heading">
-<h2 class="panel-title">What is an Array?</h2>
+<h2 class="panel-title">2. What is an Array?</h2>
 </div>
 <div class="panel-body">
-<ul>
-<li>An arrangement of objects in a given order.</li>
-<li>Characters inside a quote.</li>
-<li>A single variable that is used to store different elements.</li>
-</ul>
+  <input type="radio" name="question2" value="A feature which facilitates the execution of a set of instructions/functions repeatedly."> A feature which facilitates the execution of a set of instructions/functions repeatedly.<br>
+  <input type="radio" name="question2" value="Pellentesque cursus justo"> Pellentesque cursus justo<br>
+  <input type="radio" name="question2" value="In felis condimentum cursus"> In felis condimentum cursus<br>
+</div>
+<div class="panel-footer">
+<p>3 Marks</p>
+</div>
+</div>
+
+<div class="panel panel-info">
+<div class="panel-heading">
+<h2 class="panel-title">3. How do you clone an object?</h2>
+</div>
+<div class="panel-body">
+  <input type="radio" name="question3" value="A feature which facilitates the execution of a set of instructions/functions repeatedly."> A feature which facilitates the execution of a set of instructions/functions repeatedly.<br>
+  <input type="radio" name="question3" value="Pellentesque cursus justo"> Pellentesque cursus justo<br>
+  <input type="radio" name="question3" value="In felis condimentum cursus"> In felis condimentum cursus<br>
+</div>
 </div>
 <div class="panel-footer">
 <p>3 Marks</p>
@@ -45,49 +59,31 @@
 </div>
 <div class="panel panel-info">
 <div class="panel-heading">
-<h2 class="panel-title">How do you clone an object?</h2>
+<h2 class="panel-title">4. What is a "closure" in JavaScript?</h2>
 </div>
 <div class="panel-body">
-<ul>
-<li>Orci ut velit</li>
-<li>Pellentesque cursus justo</li>
-<li>In felis condimentum cursus</li>
-</ul>
-</div>
-<div class="panel-footer">
-<p>3 Marks</p>
-</div>
-</div>
-<div class="panel panel-info">
-<div class="panel-heading">
-<h2 class="panel-title">What is a "closure" in JavaScript?</h2>
-</div>
-<div class="panel-body">
-<ul>
-<li>Orci ut velit</li>
-<li>Pellentesque cursus justo</li>
-<li>In felis condimentum cursus</li>
-</ul>
+  <input type="radio" name="question4" value="A feature which facilitates the execution of a set of instructions/functions repeatedly."> A feature which facilitates the execution of a set of instructions/functions repeatedly.<br>
+  <input type="radio" name="question4" value="Pellentesque cursus justo"> Pellentesque cursus justo<br>
+  <input type="radio" name="question5" value="In felis condimentum cursus"> In felis condimentum cursus<br>
 </div>
 <div class="panel-footer">
 <p>5 Marks</p>
 </div>
 </div>
+
 <div class="panel panel-info">
 <div class="panel-heading">
-<h2 class="panel-title">What is NaN?</h2>
+<h2 class="panel-title">5. What is NaN?</h2>
 </div>
 <div class="panel-body">
-<ul>
-<li>Orci ut velit</li>
-<li>Pellentesque cursus justo</li>
-<li>In felis condimentum cursus</li>
-</ul>
-</div>
+    <input type="radio" name="question5" value="A feature which facilitates the execution of a set of instructions/functions repeatedly."> A feature which facilitates the execution of a set of instructions/functions repeatedly.<br>
+    <input type="radio" name="question5" value="Pellentesque cursus justo"> Pellentesque cursus justo<br>
+    <input type="radio" name="question5" value="In felis condimentum cursus"> In felis condimentum cursus<br>
+  </div>
 <div class="panel-footer">
 <p>5 Marks</p>
 </div>
-<button type="submit" onclick="triangleTracker()">SUBMIT</button>
+<button type="submit" onclick="scoreDisplay()">SUBMIT</button>
 </div>
   </body>
 </html>
