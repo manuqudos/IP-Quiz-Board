@@ -1,3 +1,8 @@
 .jumbotron>h1 {
   color: #1B4F72;
 }
+#display {
+  color: #1B4F72;
+  font-weight: bold;
+  font-family: sans-serif;
+}
