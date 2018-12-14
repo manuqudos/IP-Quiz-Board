@@ -1,6 +1,8 @@
-## {QUIZ-BOARD}
-#### {This is a Bootstrap practice project}, {6 December, 2018}
-#### By {Emmanuel Okudo}
+# QUIZ-BOARD
+
+## Author
+
+* Emmanuel Okudo
 
 ## Description
 
@@ -11,25 +13,34 @@
 * You do not need to run a server. You do not need to install any dependencies. No need to set up any databases. There are no other codes this app depends on
 
 ## BDD
-{*Behavior Driven Development*
+*Behavior Driven Development*
+
 * Gathers User Information / Input (Choices of answers for given questions).
 * Verifies the accuracy of given answers.
 * Relays results (Displays the final total score) upon submission.
 
 ## Known Bugs
+
 * There are not any known bugs. Should you experience any, feel free to contact and share the same.
 
 ## Technologies Used
-* The languages and tools used to create this app are HTML, CSS, Atom, JavaScript and jQuery. By using HTML, I have been able to come up with a basic webpage.
+
+* The languages and tools used to create this app are:
+
+* HTML
+* CSS
+* Atom
+* JavaScript
+* Bootstrap
 
 ## Support and contact details
+
 * In case of any issues or have questions, ideas or concerns, feel free to contact me or make a contribution to the code.
 
 ## Links
-* IP-Quiz-Board](https://github.com/manuqudos/IP-Quiz-Board)}
 
-## Authors
-**Emmanuel Okudo** - *Initial work*
+* Here is the link to watch the IP-Quiz-Board live page: (https://github.com/manuqudos/IP-Quiz-Board)
 
 ## License
-* This project is licensed under the terms of the MIT license. Copyright (c) {2018} {Emmanuel Okudo}
+
+* This project is licensed under the terms of the MIT license. Copyright (c) 2018 Emmanuel Okudo
