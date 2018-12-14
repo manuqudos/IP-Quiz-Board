@@ -10,6 +10,12 @@
 ##Setup/Installation Requirements
 {You do not need to run a server. You do not need to install any dependencies. No need to set up any databases. There are no other codes this app depends on}
 
+#BDD
+{*Behavior Driven Development*
+1. Gathers User Information / Input (Choices of answers for given questions).
+2. Verifies the accuracy of given answers.
+3. Relays results (Displays the final total score) upon submission.}
+
 #Known Bugs
 {There are not any known bugs. Should you experience any, feel free to contact and share the same. }
 
