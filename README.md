@@ -25,5 +25,9 @@
 #Support and contact details
 {In case of any issues or have questions, ideas or concerns, feel free to contact me or make a contribution to the code.}
 
+## Authors
+
+* **Emmanuel Okudo** - *Initial work* - [IP-Quiz-Board](https://github.com/manuqudos/IP-Quiz-Board)
+
 #License
 {This project is licensed under the terms of the MIT license.} Copyright (c) {2018} {Emmanuel Okudo}
