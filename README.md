@@ -39,7 +39,7 @@
 
 ## Links
 
-* Here is the link to watch the IP-Quiz-Board live page: (https://github.com/manuqudos/IP-Quiz-Board)
+* Here is the link to watch the IP-Quiz-Board live page: https://manuqudos.github.io/IP-Quiz-Board/
 
 ## License
 
